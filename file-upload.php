@@ -50,9 +50,9 @@ $uploads_dir = 'images';
  
     echo "File Sucessfully uploaded";
     }
-    else{
-        echo "Done";
-    }
+
+       
+
 }
  
  
