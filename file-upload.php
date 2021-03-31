@@ -17,7 +17,7 @@
  
 </body>
 </html>
- 
+ // (c) 2021 Gangapuram Bhargav
 <?php 
 $localhost = "localhost"; #localhost
 $dbusername = "root"; #username of phpmyadmin
